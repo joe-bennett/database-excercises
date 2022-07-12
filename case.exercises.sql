@@ -20,3 +20,5 @@ SELECT first_name, last_name,
 END AS alpha_group
 FROM employees;
 
+	-- How many employees (current or previous) were born in each decade?
+
